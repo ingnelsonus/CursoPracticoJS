@@ -13,7 +13,7 @@ function perimetroTriangulo(lado1,lado2,ladoBase){
 function AreaTriangulo(base,altura){
     return (base*altura)/2;
 }
-
+//
 function diametroCirculo(radio){
     return radio*2;
 }
