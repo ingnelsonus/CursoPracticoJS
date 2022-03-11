@@ -6,3 +6,12 @@ Curso practico Basico JS
 - paso 2: Implementar formulas en Java Script.
 - Paso 3: Crear funciones.
 -Paso 4: Integrar JS con HTML.
+
+## Taller #2: porcentajes y descuentos.
+-Definir las formulas
+-implementar las formulas en JS
+-crear funciones
+-integrar html con JS.
+
+
+
